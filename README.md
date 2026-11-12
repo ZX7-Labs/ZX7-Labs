@@ -1,37 +1,34 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/zx7-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/zx7-hero-light.svg">
-  <img src="assets/zx7-hero-light.svg" width="100%" alt="ZX7 Labs — independent technology lab, with its approved black-and-white logo.">
-</picture>
+<img src="assets/zx7-labs-primary.svg" width="100%" alt="ZX7 LABS — original approved black logo on a pure white background" />
 
-### Independent technology lab
+### Explore boldly. Engineer precisely.
 
-**ZX7 Labs** explores the intersection of software engineering, applied intelligence, and creative technology.
+**ZX7 Labs** is an independent technology lab exploring intelligent systems, software engineering, and creative technology.
 
-We turn ideas into working experiments and useful tools — with attention to design, reliability, and the evidence behind what we build.
+We approach ambitious ideas from first principles, turn promising directions into working systems, and let evidence guide what comes next.
 
 </div>
 
 ---
 
-### What we focus on
+### Our disciplines
 
-| Systems | Intelligence | Creative technology |
-| :--- | :--- | :--- |
-| Software architecture, developer tools, and dependable infrastructure. | Applied AI, automation, and ways to make complex systems more useful. | Digital creation, interactive tools, and new approaches to creative workflows. |
+**01 — Intelligence**  
+Applied AI, automation, and tools that extend what people can create and accomplish.
 
-### How we work
+**02 — Engineering**  
+Software systems, developer infrastructure, security, and dependable foundations.
 
-**Understand the problem. Build deliberately. Test what matters.**
-
-Some ideas become software. Others remain experiments or lead us back to better existing solutions. Both outcomes matter.
+**03 — Creation**  
+Creative computing, digital media tools, and new ways to design and make things.
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ZX7-Labs?tab=repositories"><strong>Explore our public work</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/ZX7-Labs"><strong>GitHub profile</strong></a>
-</p>
+<div align="center">
+
+**The principle:** Ask better questions. Build carefully. Test what matters.
+
+[**Explore the work →**](https://github.com/ZX7-Labs?tab=repositories)
+
+</div>
