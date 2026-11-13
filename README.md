@@ -8,6 +8,8 @@
 
 We approach ambitious ideas from first principles, turn promising directions into working systems, and let evidence guide what comes next.
 
+[**Explore our public work →**](https://github.com/ZX7-Labs?tab=repositories)
+
 </div>
 
 ---
@@ -22,13 +24,3 @@ Software systems, developer infrastructure, security, and dependable foundations
 
 **03 — Creation**  
 Creative computing, digital media tools, and new ways to design and make things.
-
----
-
-<div align="center">
-
-**The principle:** Ask better questions. Build carefully. Test what matters.
-
-[**Explore the work →**](https://github.com/ZX7-Labs?tab=repositories)
-
-</div>
