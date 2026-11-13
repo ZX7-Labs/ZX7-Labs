@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/zx7-labs-primary.svg" width="100%" alt="ZX7 LABS — original approved black logo on a pure white background" />
+<img src="assets/zx7-labs-original.png" width="100%" alt="ZX7 LABS — the full black wordmark and Z symbol on a white background" />
 
 ### Explore boldly. Engineer precisely.
 
